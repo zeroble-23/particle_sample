@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#textdiv {
+  display: block;
+  background-color: rgba(0,0,0,0);
+  position:absolute;
+  color: white;
+  font-size: 72pt;
+  margin-left: 38%;
+  margin-top: 25%;
+  font-family: "Trattatello", fantasy;
+}
+
+#snowfall {
+  background: cornflowerblue;
+  width: 100%;
+  height: 1000px;
+}
